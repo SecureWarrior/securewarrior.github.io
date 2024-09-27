@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="robots" content="noindex">
+
+  <title>Productos y servicios</title>
+
+  <meta name="description" content="Información sobre los servicios ofrecidos">
+  <meta name="author" content="SecureWarrior">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Productos y servicios">
+  <meta name="twitter:description" content="Información sobre los servicios ofrecidos">
+  <meta name="twitter:creator" content="SecureWarrior">  
+  <meta name="twitter:image" content="/images/otros/kernel.png" />
+
+  <meta property="og:site_name" content="SecureWarrior" />
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Productos y servicios">
+  <meta property="og:description" content="Información sobre los servicios ofrecidos">
+  <meta property="og:image" content="/images/otros/kernel.png" />
+
+  <link rel="manifest" href="/images/favicons/manifest.json">
+  <link rel="shortcut icon" type="image/png" sizes="64x64" href="/images/otros/kernel.png">
+
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" href="/css/main.css?1678854914750547280">
+  <link rel="alternate" type="application/rss+xml" title="Kernel Mode" href="/feed.xml">
+</head>
+
+  <body style="background-color: #282828;">
+  
+    <span class="mobile btn-mobile-menu">
+      <i class="icon icon-list btn-mobile-menu__icon"></i>
+      <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
+    </span>
+
+<header class="panel-cover" style="background-image: url(/images/cover.jpg)">
+
+  <div class="panel-main">
+    <div class="panel-main__inner panel-inverted">
+      <div class="panel-main__content">
+          <img src="/images/profile.jpg" class="zoomable user-image" alt="SecureWarrior">
+          <h1 class="panel-cover__title panel-title scale-up-center">SecureWarrior</h1>
+
+        <hr class="panel-cover__divider">
+        <p class="panel-cover__description slide-top">Entusiasta del reversing y desarrollo de exploits</p>
+        <hr class="panel-cover__divider panel-cover__divider--secondary">
+
+        <div class="navigation-wrapper">
+         <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item grow"><a href="/" title="Inicio" class="blog-button">Inicio</a></li>
+            </ul>
+          </nav>
+
+          <nav class="cover-navigation navigation--social">
+            <ul class="navigation">
+              
+              <li class="navigation__item grow">
+                <a href="https://github.com/SecureWarrior" title="Github" target="_blank">
+                  <i class="icon icon-social-github"></i>
+                  <span class="label">GitHub</span>
+                </a>
+              </li>
+
+              <li class="navigation__item grow">
+                <a href="https://twitter.com/SecureWarrior" title="Twitter" target="_blank">
+                  <i class="icon icon-social-twitter"></i>
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+
+              <li class="navigation__item grow">
+                <a href="https://instagram.com/SecureWarrior" title="Instagram" target="_blank">
+                  <i class="icon icon-social-instagram"></i>
+                  <span class="label">Instagram</span>
+                </a>
+              </li>
+
+              <li class="navigation__item grow">
+                <a href="https://facebook.com/profile.php?id=61565707822173" title="Facebook" target="_blank">
+                  <i class="icon icon-social-facebook"></i>
+                  <span class="label">Facebook</span>
+                </a>
+              </li>
+
+              <li class="navigation__item grow">
+                <a href="mailto:SecureWarrior@gmail.com" title="Correo Electronico" target="_blank">
+                  <i class="icon icon-mail"></i>
+                  <span class="label">Email</span>
+                </a>
+              </li>
+
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel-cover--overlay"></div>
+  </div>
+</header>
+
+  <div class="content-wrapper">
+    <div class="content-wrapper__inner">
+      <div class="main-post-list">
+        <ol class="post-list"><nr>
+
+              <picture><img src="/images/otros/kernel.png" style="float: right; margin-top: -38px; margin-right:-20px; margin-left:10px; height:100px;" class="include_image zoomable"/>
+              <h2 class="post-title">Productos y servicios</h2>
+              <br></br><br></br><br></br>
+
+              <picture><img src="/images/1.png" style="float: right; margin-right:0px; margin-left:90px; height:90px;" class="include_image zoomable"/>
+              <h2 class="post-list__post-title post-title">Hacking continuo</h2>
+              <p class="excerpt">Detectamos con exactitud vulnerabilidades en ciclos continuos a medida que evoluciona tu tecnología aprendiendo sobre nuevas tecnologías para no ofrecer soluciones obsoletas.</p>
+            <hr class="post-list__divider ">
+
+              <br></br><br></br><br></br>
+              <picture><img src="/images/otros/kernel.png" style="float: right; margin-top: -38px; margin-right:-20px; margin-left:10px; height:100px;" class="include_image zoomable"/>
+              <h2 class="post-title">Productos y servicios</h2>
+              <br></br><br></br><br></br>
+
+              <picture><img src="/images/2.png" style="float: right; margin-right:0px; margin-left:90px; height:90px;" class="include_image zoomable"/>
+              <h2 class="post-list__post-title post-title">Ataque determinístico automatizado</h2>
+              <p class="excerpt">Nuestros análisis automatizados SAST, DAST, SCA y CSPM, escanean y reportan vulnerabilidades con pocos falsos positivos.</p>
+            <hr class="post-list__divider ">
+
+              <picture><img src="/images/2.png" style="float: right; margin-right:0px; margin-left:90px; height:90px;" class="include_image zoomable"/>
+              <h2 class="post-list__post-title post-title">Triage potenciado por IA</h2>
+              <p class="excerpt">Nuestra IA está entrenada con miles de fragmentos de código vulnerable y cuenta con un módulo especializado que nos ayuda a priorizar los archivos potencialmente vulnerables para su revisión.</p>
+            <hr class="post-list__divider ">
+           
+              <picture><img src="/images/2.png" style="float: right; margin-right:0px; margin-left:90px; height:90px;" class="include_image zoomable"/>
+              <h2 class="post-list__post-title post-title">Equipo de ataque</h2>
+              <p class="excerpt">Nuestro red team altamente certificado examina continuamente código, infraestructura y aplicaciones en busca de vulnerabilidades a través de pentesting manual.</p>
+            <hr class="post-list__divider ">
+              
+              <picture><img src="/images/2.png" style="float: right; margin-right:0px; margin-left:90px; height:90px;" class="include_image zoomable"/>
+              <h2 class="post-list__post-title post-title">Equipo de liberación</h2>
+              <p class="excerpt">Nuestros expertos revisan los hallazgos detalladamente, descartan posibles falsos positivos y evalúan la validez de los resultados antes de reportarlos a tu equipo.</p>
+            <hr class="post-list__divider ">
+
+              <picture><img src="/images/2.png" style="float: right; margin-right:0px; margin-left:90px; height:90px;" class="include_image zoomable"/>
+              <h2 class="post-list__post-title post-title">Equipo de fugas</h2>
+              <p class="excerpt">Nuestros expertos buscan vulnerabilidades de forma aún más exhaustiva para reducir falsos negativos.</p>
+            <hr class="post-list__divider ">
+
+              <picture><img src="/images/2.png" style="float: right; margin-right:0px; margin-left:90px; height:90px;" class="include_image zoomable"/>
+              <h2 class="post-list__post-title post-title">Equipo de reataque</h2>
+              <p class="excerpt">Nuestros expertos evalúan la eficacia de tu solución a una vulnerabilidad y si surgieron nuevas vulnerabilidades debido a la remediación.</p>
+            <hr class="post-list__divider ">
+
+        </ol>
+      </div>
+    </div>
+  </div>
+<footer class="footer">
+  <span class="footer__copyright">&copy; 2024 - SecureWarrior</span>
+</footer>
+
+
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/main.js?1678863010724689519"></script>
+
+    </div>
+  </body>
+</html>
+
